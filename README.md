@@ -4,6 +4,9 @@ A professional, modern task management application built with React, Tailwind CS
 
 ![Task Manager Screenshot](https://img.shields.io/badge/React-18.2-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-blue) ![Context API](https://img.shields.io/badge/Context-API-green) ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="1349" height="814" alt="Screenshot 2026-01-01 at 18-58-34 int-task-manager" src="https://github.com/user-attachments/assets/2a91e34a-2ac9-4267-ae64-23ad06acec43" />
+
+
 ## ✨ Features
 
 - ✅ **Add, Edit, Delete Tasks** with priority levels
